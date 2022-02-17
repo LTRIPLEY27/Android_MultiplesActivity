@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Android_MultiplesActivity</string>
+    <string name="bienvenida">Bienvenidos!</string>
+    <string name="pregunta">Quieres revelar la carta oculta?</string>
+    <string name="enter">Entrar</string>
+    <string name="revela">Haz revelado la carta oculta</string>
+</resources>
